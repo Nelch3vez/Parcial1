@@ -28,6 +28,12 @@ const routes = [
   },
   
   {
+    path: '/oriente',
+    name: 'oriente',
+    component: oriente
+  },
+  
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting
