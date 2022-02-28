@@ -11,6 +11,7 @@
       <b-nav-item to="/occidente">Zona Occidental</b-nav-item>
       <b-nav-item to="/oriente">Zona Oriental</b-nav-item>
      <b-nav-item to="/central">Zona Central</b-nav-item>
+     <b-nav-item to="/paracentral">Zona Paracentral</b-nav-item>
       
     </b-navbar-nav>
 
