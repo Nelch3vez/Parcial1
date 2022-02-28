@@ -32,7 +32,11 @@ const routes = [
     name: 'oriente',
     component: oriente
   },
-  
+  {
+    path: '/central',
+    name: 'Central',
+    component: central
+  },
   {
     path: '/about',
     name: 'about',
