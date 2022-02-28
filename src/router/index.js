@@ -38,6 +38,11 @@ const routes = [
     component: central
   },
   {
+    path: '/paracentral',
+    name: 'Paracentral',
+    component: paracentral
+  },
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting
